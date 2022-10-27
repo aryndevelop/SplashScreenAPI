@@ -14,10 +14,9 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
 
         <!-- Customize your Splash Screen here. -->
-        <item name="android:windowSplashScreenBackground">@color/black</item>
-        <item name="android:windowSplashScreenAnimatedIcon">@drawable/news_avd_v02</item>
-        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+<!--        <item name="android:windowSplashScreenBackground">@color/black</item>-->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/avd_anim</item>
+<!--        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>-->
         <item name="android:windowSplashScreenAnimationDuration">1000</item>
-        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_launcher_foreground</item>
     </style>
 </resources>
